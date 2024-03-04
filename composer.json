@@ -1,0 +1,17 @@
+{
+    "name": "nicky/scphkk",
+    "autoload": {
+        "psr-4": {
+            "Nicky\\Scphkk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nattapol",
+            "email": "nattapolwa@kkumail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
